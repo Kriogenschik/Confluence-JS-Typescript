@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "es6-promise": "^4.2.8"
+  },
+  "devDependencies": {
+    "@types/es6-promise": "^3.3.0"
+  },
+  "compilerOptions": {
+    "module": "es6",
+    "esModuleInterop": true,
+    "target": "ESNext",
+    "lib": [
+      "es6",
+      "dom"
+    ]
+  }
+}
